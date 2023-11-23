@@ -1,2 +1,2 @@
 # My_portfolio
-Мои работы можно посмотреть тут: 
+Моя первая работа : https://shuckiy73.github.io/My_portfolio/ 
